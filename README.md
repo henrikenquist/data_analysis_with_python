@@ -6,7 +6,18 @@ Start date: 2025-02-15
 
 End date:
 
-## NumPy Videos
+[My GitHub repo](https://github.com/henrikenquist/data_analysis_with_python)
+
+
+## Courses to learn the prerequisites
+
+We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
+
+- [Python for Everybody Video Course (14 hours)](https://www.freecodecamp.org/news/python-for-everybody/) (Taken 2021)
+- [How to Analyze Data with Python Pandas (10 hours)](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
+
+
+# NumPy Videos
 
 [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
 
@@ -21,12 +32,24 @@ End date:
 - [Loading Data and Advanced Indexing](https://www.youtube.com/watch?v=tUdBZ7pF8Jg)
 
 
-## Projects
+## Challenges
+
 
 ### Mean-Variance-Standard Deviation Calculator
 
-You will be working on this project with our [Gitpod starter code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator/).
+- [Challenge](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
+- [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator/)
 
-- [Python for Everybody Video Course (14 hours)](https://www.freecodecamp.org/news/python-for-everybody/)
-- [How to Analyze Data with Python Pandas (10 hours)](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 
+### Demographic Data Analyzer
+
+- [Challenge](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
+- [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer/)
+
+
+### xxx
+
+
+
+
+## Projects
