@@ -16,7 +16,9 @@ In the [Data Analysis with Python Certification](https://www.freecodecamp.org/le
 
 Start date: 2025-02-15
 
-End date:
+End date: 2025-02-26
+
+[Certificate](https://www.freecodecamp.org/certification/Henrik_Enquist/data-analysis-with-python-v7)
 
 [My GitHub repo](https://github.com/henrikenquist/data_analysis_with_python)
 
