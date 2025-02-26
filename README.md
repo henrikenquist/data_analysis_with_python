@@ -1,16 +1,15 @@
 # Data Analysis with Python (freeCodeCamp)<!-- omit in toc -->
 
-1. [TODO](#todo)
-2. [Requirements](#requirements)
-3. [Courses to learn the ropes](#courses-to-learn-the-ropes)
-4. [1. Data Analysis](#1-data-analysis)
-5. [2. Jupyter Notebooks](#2-jupyter-notebooks)
-6. [3. NumPy](#3-numpy)
-7. [4. Pandas](#4-pandas)
-8. [5. Data Cleaning](#5-data-cleaning)
-9. [6. Reading Data](#6-reading-data)
-10. [7. Python](#7-python)
-11. [Projects](#projects)
+1. [Requirements](#requirements)
+2. [Courses to learn the ropes](#courses-to-learn-the-ropes)
+3. [1. Data Analysis](#1-data-analysis)
+4. [2. Jupyter Notebooks](#2-jupyter-notebooks)
+5. [3. NumPy](#3-numpy)
+6. [4. Pandas](#4-pandas)
+7. [5. Data Cleaning](#5-data-cleaning)
+8. [6. Reading Data](#6-reading-data)
+9. [7. Python](#7-python)
+10. [Projects](#projects)
 
 
 In the [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/), you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
@@ -21,12 +20,6 @@ End date:
 
 [My GitHub repo](https://github.com/henrikenquist/data_analysis_with_python)
 
-## TODO
-
-- Lessons 6.8 - 6.19
-- Medical Data Visualizer
-- Page View Time Series Visualizer
-- Sea Level Predictor
 
 ## Requirements
 
@@ -315,4 +308,11 @@ Visualize time series data using a line chart, bar chart, and box plots. You wil
 - [Challenge](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
 - [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer)
 
+
+### Sea Level Predictor
+
+Visualize time series data using a line chart, bar chart, and box plots. You will use pandas, matplotlib, and seaborn.
+
+- [Challenge](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+- [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-sea-level-predictor/)
 
