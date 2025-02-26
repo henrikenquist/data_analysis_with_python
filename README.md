@@ -308,3 +308,11 @@ Visualize and make calculations from medical examination data using matplotlib, 
 - [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer/)
 
 
+### Page View Time Series Visualizer
+
+Visualize time series data using a line chart, bar chart, and box plots. You will use pandas, matplotlib, and seaborn.
+
+- [Challenge](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
+- [Boilerplate code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer)
+
+
