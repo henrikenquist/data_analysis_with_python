@@ -247,14 +247,6 @@ Always use `loc` and `iloc` to reduce ambiguity, specially with DataFrames with 
 [Lecture 6 resources on GitHub](https://github.com/krishnatray/RDP-Reading-Data-with-Python-and-Pandas)
 
 
-Lessons 6.8 - 6.19 remain to be done:
-
-- json
-- db
-- html
-- pickle
-
-
 ### Lecture notes
 
 - read_csv
